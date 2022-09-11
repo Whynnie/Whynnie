@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I’m Winners. I'm a Data Scientist with a keen interest in cloud engineering, and AI & IA engineering. I look forward to connecting with you here 👋
 
 <!--
 **Whynnie/Whynnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
