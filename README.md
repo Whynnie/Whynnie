@@ -1,5 +1,9 @@
 # Hi 👋, I'm Winners 
 
+
+![image](https://user-images.githubusercontent.com/63943601/189709449-40a85048-fb36-4681-9bdb-437634610c86.png)
+
+
 ##### A community taught Data analyst and Data Scientist, based in Lagos, Nigeria 
 
 - 👩‍💻 I have keen interest in cloud engineering, and AI & IA engineering.
