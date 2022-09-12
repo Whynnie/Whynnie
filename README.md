@@ -1,4 +1,11 @@
-### Hi, I’m Winners. I'm a Data Scientist with a keen interest in cloud engineering, and AI & IA engineering. I look forward to connecting with you here 👋
+### Hi, I’m Winners.
+
+Hi 👋, I'm Winners Okebaram 
+
+A community taught Data analyst and Data Scientist with a keen interest in cloud engineering, and AI & IA engineering, based in Lagos, Nigeria 
+
+Coding
+
 
 <!--
 **Whynnie/Whynnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
