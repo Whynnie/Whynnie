@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **okebaramwinnerspraise@gmail.com**
 
-- ⚡ Fun fact **I'm a NFT enthusiast & I'm a Pro-gamer in my spare time**
+- ⚡ Fun fact **I'm an NFT enthusiast & I'm a Pro-gamer in my spare time (you really do not wanna play against me!)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
