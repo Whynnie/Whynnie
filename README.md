@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Winners Okebaram</h1>
-<h3 align="center">A community taught Data analyst and Data Scientist, based in Lagos, Nigeria </h3>
+<h3 align="center">A community taught Data analyst and Data Scientist with 2 years experience, based in Lagos, Nigeria </h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whynniethegr8&label=Profile%20views&color=0e75b6&style=flat" alt="whynniethegr8" /> </p>
