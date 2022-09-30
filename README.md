@@ -8,7 +8,7 @@
 
 - 👩‍💻 I have keen interest in **Cloud Engineering & AI Engineering**
 
-- 🌱 I’m currently learning **DBT & Big Data**
+- 🌱 I’m currently learning **DBT & AWS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
