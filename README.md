@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@whynniethegr8](https://medium.com/@whynniethegr8/)
 
-- 💬 Ask me about **Machine Learning, Feature Engineering**
+- 💬 Ask me about **Machine Learning, Data Science**
 
 - 📫 How to reach me **okebaramwinnerspraise@gmail.com**
 
